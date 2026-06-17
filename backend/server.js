@@ -21,11 +21,18 @@ if (!fs.existsSync(uploadsDir)) {
 app.use('/uploads', express.static(uploadsDir));
 app.use('/api/uploads', express.static(uploadsDir));
 
-// Routes mapping
+// Routes mapping (supports both Vercel prefix-stripped routing and local development)
 app.use('/api/auth', require('./routes/auth'));
+app.use('/auth', require('./routes/auth'));
+
 app.use('/api/products', require('./routes/products'));
+app.use('/products', require('./routes/products'));
+
 app.use('/api/orders', require('./routes/orders'));
+app.use('/orders', require('./routes/orders'));
+
 app.use('/api/inventory', require('./routes/inventory'));
+app.use('/inventory', require('./routes/inventory'));
 
 // Home Route
 app.get('/', (req, res) => {
