@@ -1,0 +1,170 @@
+[
+  {
+    "_id": "c4f218a5146561f65f115577",
+    "name": "Teekha Mango Achaar",
+    "category": "Achaar",
+    "description": "Homemade spicy and sour green mango pickle prepared with premium cold-pressed mustard oil and authentic spices.",
+    "price": {
+      "250g": 250,
+      "500g": 450,
+      "1kg": 850
+    },
+    "weights": [
+      "250g",
+      "500g",
+      "1kg"
+    ],
+    "stock": 25,
+    "image": "mango-achaar.jpg",
+    "visible": true,
+    "createdAt": "2026-06-17T11:35:36.184Z",
+    "updatedAt": "2026-06-17T11:35:36.184Z"
+  },
+  {
+    "_id": "3da551498084c5a9395093ef",
+    "name": "Khatta Lemon Achaar",
+    "category": "Achaar",
+    "description": "Zesty and tangy pickled lemons infused with red chilies, fennel seeds, and salt. Oil-free recipe.",
+    "price": {
+      "250g": 200,
+      "500g": 380,
+      "1kg": 700
+    },
+    "weights": [
+      "250g",
+      "500g",
+      "1kg"
+    ],
+    "stock": 15,
+    "image": "lemon-achaar.jpg",
+    "visible": true,
+    "createdAt": "2026-06-17T11:35:36.184Z",
+    "updatedAt": "2026-06-17T11:35:36.184Z"
+  },
+  {
+    "_id": "3d24170cd643055e677ec0cd",
+    "name": "Chatpata Mixed Achaar",
+    "category": "Achaar",
+    "description": "A traditional mixture of carrots, green chilies, mangoes, and lemons pickled with a perfect spice blend.",
+    "price": {
+      "250g": 240,
+      "500g": 420,
+      "1kg": 800
+    },
+    "weights": [
+      "250g",
+      "500g",
+      "1kg"
+    ],
+    "stock": 30,
+    "image": "mixed-achaar.jpg",
+    "visible": true,
+    "createdAt": "2026-06-17T11:35:36.184Z",
+    "updatedAt": "2026-06-17T11:35:36.184Z"
+  },
+  {
+    "_id": "b9a5d2124fa4a787722ed743",
+    "name": "Spicy Green Chili Achaar",
+    "category": "Achaar",
+    "description": "Hot and fiery green chilies slit and stuffed with mustard seeds, turmeric, and sour spices, aged in mustard oil.",
+    "price": {
+      "250g": 220,
+      "500g": 400,
+      "1kg": 750
+    },
+    "weights": [
+      "250g",
+      "500g",
+      "1kg"
+    ],
+    "stock": 4,
+    "image": "green-chili-achaar.jpg",
+    "visible": true,
+    "createdAt": "2026-06-17T11:35:36.184Z",
+    "updatedAt": "2026-06-17T11:35:36.184Z"
+  },
+  {
+    "_id": "0c16f280750cc3c83dcd62e6",
+    "name": "Crispy Masala Papad",
+    "category": "Papad",
+    "description": "Crunchy and flavorful lentil flatbreads spiced with black pepper and roasted cumin. Delicious when roasted or fried.",
+    "price": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 500
+    },
+    "weights": [
+      "250g",
+      "500g",
+      "1kg"
+    ],
+    "stock": 20,
+    "image": "masala-papad.jpg",
+    "visible": true,
+    "createdAt": "2026-06-17T11:35:36.184Z",
+    "updatedAt": "2026-06-17T11:35:36.184Z"
+  },
+  {
+    "_id": "344af1632db80d951a0c9eb7",
+    "name": "Handmade Moong Papad",
+    "category": "Papad",
+    "description": "Mild and nutritious split mung bean papad, rolled by hand and dried in hygienic solar dryers.",
+    "price": {
+      "250g": 140,
+      "500g": 260,
+      "1kg": 480
+    },
+    "weights": [
+      "250g",
+      "500g",
+      "1kg"
+    ],
+    "stock": 18,
+    "image": "moong-papad.jpg",
+    "visible": true,
+    "createdAt": "2026-06-17T11:35:36.185Z",
+    "updatedAt": "2026-06-17T11:35:36.185Z"
+  },
+  {
+    "_id": "147951b57fc5d016e440204f",
+    "name": "Lehsun (Garlic) Lal Chutney",
+    "category": "Chutney",
+    "description": "Fiery garlic chutney paste featuring whole red chilies, coriander seeds, cumin, and sea salt. Desi style.",
+    "price": {
+      "250g": 180,
+      "500g": 320,
+      "1kg": 600
+    },
+    "weights": [
+      "250g",
+      "500g",
+      "1kg"
+    ],
+    "stock": 11,
+    "image": "garlic-chutney.jpg",
+    "visible": true,
+    "createdAt": "2026-06-17T11:35:36.185Z",
+    "updatedAt": "2026-06-17T11:46:43.885Z"
+  },
+  {
+    "_id": "1dce21a3d0dd87c958fbaf97",
+    "name": "Meethi Imli Chutney",
+    "category": "Chutney",
+    "description": "Tangy and sweet tamarind sauce blended with organic jaggery, ginger powder, and roasted black salt.",
+    "price": {
+      "250g": 160,
+      "500g": 300,
+      "1kg": 550
+    },
+    "weights": [
+      "250g",
+      "500g",
+      "1kg"
+    ],
+    "stock": 3,
+    "image": "imli-chutney.jpg",
+    "visible": true,
+    "createdAt": "2026-06-17T11:35:36.185Z",
+    "updatedAt": "2026-06-17T11:35:36.185Z"
+  }
+]

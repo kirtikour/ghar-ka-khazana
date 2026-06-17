@@ -1,0 +1,89 @@
+[
+  {
+    "_id": "e40eacb17af987abb9325a5e",
+    "customerName": "Karan Tejwani",
+    "phone": "923001234567",
+    "address": "House 45, Street 12, Gulshan-e-Iqbal, Karachi",
+    "items": [
+      {
+        "product": "c4f218a5146561f65f115577",
+        "name": "Teekha Mango Achaar",
+        "weight": "500g",
+        "price": 450,
+        "quantity": 2
+      },
+      {
+        "product": "0c16f280750cc3c83dcd62e6",
+        "name": "Crispy Masala Papad",
+        "weight": "250g",
+        "price": 150,
+        "quantity": 1
+      }
+    ],
+    "total": 1050,
+    "status": "Pending",
+    "notes": "Please pack tightly, shipping to Gulshan-e-Iqbal.",
+    "createdAt": "2026-06-17T11:35:36.188Z",
+    "updatedAt": "2026-06-17T11:35:36.189Z"
+  },
+  {
+    "_id": "0bb1da70da0d43f30397d93a",
+    "customerName": "Ayesha Khan",
+    "phone": "923339876543",
+    "address": "Flat 302, Jasmine Heights, Clifton, Karachi",
+    "items": [
+      {
+        "product": "3d24170cd643055e677ec0cd",
+        "name": "Chatpata Mixed Achaar",
+        "weight": "1kg",
+        "price": 800,
+        "quantity": 1
+      }
+    ],
+    "total": 800,
+    "status": "Confirmed",
+    "notes": "Deliver in evening.",
+    "createdAt": "2026-06-17T11:35:36.188Z",
+    "updatedAt": "2026-06-17T11:35:36.190Z"
+  },
+  {
+    "_id": "d5237895972477c897cafa04",
+    "customerName": "Zainab Ahmed",
+    "phone": "923151122334",
+    "address": "House A-19, Defence Phase 6, Karachi",
+    "items": [
+      {
+        "product": "147951b57fc5d016e440204f",
+        "name": "Lehsun (Garlic) Lal Chutney",
+        "weight": "500g",
+        "price": 320,
+        "quantity": 1
+      }
+    ],
+    "total": 320,
+    "status": "Delivered",
+    "notes": "No spicy variations.",
+    "createdAt": "2026-06-17T11:35:36.188Z",
+    "updatedAt": "2026-06-17T11:35:36.192Z"
+  },
+  {
+    "_id": "90e657b0ad92f129fbdd2de7",
+    "customerName": "kirti",
+    "phone": "03048201577",
+    "address": "near sadar",
+    "items": [
+      {
+        "product": "147951b57fc5d016e440204f",
+        "name": "Lehsun (Garlic) Lal Chutney",
+        "weight": "1kg",
+        "price": 600,
+        "quantity": 1
+      }
+    ],
+    "total": 600,
+    "status": "Pending",
+    "notes": "",
+    "createdAt": "2026-06-17T11:46:43.893Z",
+    "updatedAt": "2026-06-17T11:46:43.898Z"
+  }
+]
