@@ -75,7 +75,7 @@
               <div class="w-16 h-16 rounded-lg overflow-hidden bg-gray-100 border border-gray-150 shrink-0 flex items-center justify-center text-2xl">
                 <img
                   v-if="item.image"
-                  :src="`/uploads/${item.image}`"
+                  :src="`/api/uploads/${item.image}`"
                   :alt="item.name"
                   class="w-full h-full object-cover"
                 />

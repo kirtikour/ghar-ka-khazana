@@ -218,7 +218,7 @@ const getAvailableWeights = (product) => {
 
 // Get image upload path
 const getImageUrl = (imageName) => {
-  return `/uploads/${imageName}`;
+  return `/api/uploads/${imageName}`;
 };
 
 // Resolve price dynamically

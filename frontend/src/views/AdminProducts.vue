@@ -314,7 +314,7 @@ onMounted(() => {
 });
 
 const getImageUrl = (imageName) => {
-  return `/uploads/${imageName}`;
+  return `/api/uploads/${imageName}`;
 };
 
 const getWeights = (product) => {

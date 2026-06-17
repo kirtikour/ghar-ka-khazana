@@ -389,7 +389,7 @@ const featuredProducts = computed(() => {
 
 // Resolve image URL
 const getImageUrl = (imageName) => {
-  return `/uploads/${imageName}`;
+  return `/api/uploads/${imageName}`;
 };
 
 // Retrieve starting price

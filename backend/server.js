@@ -19,6 +19,7 @@ if (!fs.existsSync(uploadsDir)) {
 
 // Serve uploaded images statically
 app.use('/uploads', express.static(uploadsDir));
+app.use('/api/uploads', express.static(uploadsDir));
 
 // Routes mapping
 app.use('/api/auth', require('./routes/auth'));
